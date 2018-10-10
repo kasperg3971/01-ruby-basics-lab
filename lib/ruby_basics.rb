@@ -4,7 +4,7 @@ def division(num1, num2)
 end
 
 def argue(argument)
-    returns argument
+    return argument
     
 end
 
@@ -15,7 +15,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value
-    puts "Nice"
+    return "Nice"
 end
 
 
