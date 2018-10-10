@@ -32,4 +32,4 @@ argue("I disagree")
 greeting("hello", "kasper")
 return_a_value
 pizza_party
-whisper("I AM YOUR WORST NIGHTMARE")
+whisper("Hello World")
