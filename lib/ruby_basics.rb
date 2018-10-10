@@ -27,9 +27,3 @@ def whisper(word)
     puts word.downcase
     
 end
-division(100,20)
-argue("I disagree")
-greeting("hello", "kasper")
-return_a_value
-pizza_party
-whisper("Hello World")
