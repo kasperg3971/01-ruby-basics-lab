@@ -1,16 +1,16 @@
 def division(num1, num2)
     
-    puts num1/num2
+     num1/num2
 end
 
 def argue(argument)
-    puts argument
+    returns argument
     
 end
 
 
 def greeting(greeting, name)
-    puts greeting + " " + name
+    return greeting + " " + name
 
 end
 
@@ -20,10 +20,10 @@ end
 
 
 def pizza_party(topping = "cheese")
-    puts topping
+    return topping
 end
 
 def whisper(word)
-    puts word.downcase
+    return word.downcase
     
 end
